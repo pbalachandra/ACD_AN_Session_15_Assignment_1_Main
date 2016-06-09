@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Download Image using Handler</string>
+    <string name="button_text">Download Image from URL and save in SDCard</string>
+    <string name="file_path">Filepath of Image Downloaded :\n %1$s </string>
+    <string name="url">http://upload.wikimedia.org/wikipedia/commons/6/66/Android_robot.png</string>
+</resources>
